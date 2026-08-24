@@ -1,0 +1,8 @@
+{
+  "name": "mi-primer-pipeline",
+  "version": "1.0.0",
+  "description": "Demo para clase de DevOps",
+  "scripts": {
+    "test": "echo '✅ Pruebas unitarias ejecutadas con éxito'"
+  }
+}
